@@ -387,7 +387,7 @@ function M.get(config)
     CmpItemKindVariable = { fg = p.teal1 },
 
     -- ray-x/lsp_signature.nvim
-    LspSignatureActiveParameter = { bg = p.blueGray1 },
+    LspSignatureActiveParameter = { bg = p.background1 },
 
     -- rlane/pounce.nvim
     PounceAccept = { fg = p.pink3, bg = p.text },
@@ -518,7 +518,7 @@ function M.get(config)
   vim.g.terminal_color_10 = p.teal1 -- bright green
   vim.g.terminal_color_3 = p.yellow -- yellow
   vim.g.terminal_color_11 = p.yellow -- bright yellow
-  vim.g.terminal_color_4 = p.blue1 -- blue
+  vim.g.terminal_color_4 = p.teal3 -- blue
   vim.g.terminal_color_12 = p.blue2 -- bright blue
   vim.g.terminal_color_5 = p.pink2 -- magenta
   vim.g.terminal_color_13 = p.pink2 -- bright magenta
