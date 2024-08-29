@@ -518,7 +518,7 @@ function M.get(config)
   vim.g.terminal_color_10 = p.teal1 -- bright green
   vim.g.terminal_color_3 = p.yellow -- yellow
   vim.g.terminal_color_11 = p.yellow -- bright yellow
-  vim.g.terminal_color_4 = p.teal3 -- blue
+  vim.g.terminal_color_4 = p.blue5 -- blue
   vim.g.terminal_color_12 = p.blue2 -- bright blue
   vim.g.terminal_color_5 = p.pink2 -- magenta
   vim.g.terminal_color_13 = p.pink2 -- bright magenta

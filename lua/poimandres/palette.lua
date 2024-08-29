@@ -9,6 +9,7 @@ local variants = {
     blue2 = '#ADD7FF',
     blue3 = '#91B4D5',
     blue4 = '#7390AA',
+    blue5 = '#609bb3',
     pink1 = '#FAE4FC',
     pink2 = '#FCC5E9',
     pink3 = '#D0679D',
